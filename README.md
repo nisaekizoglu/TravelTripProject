@@ -1,18 +1,31 @@
 # **TATİL SEYEHAT PROJESİ**
+
 🤩 Kullanıcı kendine özgü seyehatlarini fotoğraflar eşliğinde siteye yükleyebilir.
+
 👑 Kullanıcılar blog yazılarına yorum yapabilir.
+
 👉🏻 En popüler yerler ve en beğenilen yerler görüntülenebilir. 
+
 🐦‍⬛ Kullanıcı login, register işlemleri ile admin paneline giriş yapar.
+
 🌈 Admin paneli tarafından blog yazıları, yapılan yorumlar güncellenebilir, silinebilir, yenileri eklenebilir.
+
 🍒 Admin panelinden siteye gidilebilir.
+
 🎗 Admin panelinden çıkış yapıldıktan sonra kullanıcı login sayfasına yönlendirilir.
 
 #### **Kullanılan Teknolojiler**
+
 🪄 ASP.net MVC5 tabanlı bir projedir.
+
 🩵 Code first yaklaşımı uygulandı.
+
 🪷 CRUD işlemleri uygulandı.
+
 🤌🏼 LINQ sorguları eklendi.
+
 🤓 PartialView yapısı kullanıldı.
+
 🦋 Html-CSS-Boostrap kullanılarak arayüz iyileştirildi.
 
 # **GÖRSELLER**
